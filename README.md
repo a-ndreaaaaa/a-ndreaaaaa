@@ -1,6 +1,6 @@
-Hello! I'm Andrea, currently a full-time pre-doc and part-time masters student, doing research in behavioural and social sciences.
+Hello! I'm Andrea, an incoming PhD student at UCLA Anderson in Behavioral Decision Making.
 
-I'm interested in learning (the human kind, but the machine kind is alright too), behavioural economics, and commitment mechanisms. 
+I'm interested in decision-making, learning (the human kind, but the machine kind is alright too), and commitment mechanisms. 
 
 Very often, I scrutinise package documentation or replication code. Offline, you'll find me painting, baking, or running. 
 
