@@ -1,8 +1,6 @@
-Hello! I'm Andrea, an incoming PhD student at UCLA Anderson in Behavioral Decision Making.
+Hello! I'm Andrea, a PhD student at UCLA Anderson in Behavioral Decision Making.
 
-I'm interested in decision-making, learning (the human kind, but the machine kind is alright too), and commitment mechanisms. 
-
-Very often, I scrutinise package documentation or replication code. Offline, you'll find me painting, baking, or running. 
+I'm interested in how our perceptions and beliefs shape our welfare choices, particularly in sustainability, education, and health. 
 
 <!---
 a-ndreaaaaa/a-ndreaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
